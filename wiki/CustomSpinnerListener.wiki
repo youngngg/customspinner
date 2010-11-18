@@ -2,9 +2,7 @@
 
 = Introduction =
 
-Class inherited from ScrollView
-
-Inner class of CustomSpinner. Can be used to detect event of changing cuurent child on CustomSpinner
+Inner class of CustomSpinner.
 = Details =
 
-Works like a lock of a safe.
+ Can be used to detect event of changing a current child on a CustomSpinner
