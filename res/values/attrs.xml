@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="CustomSpinner">
+        <attr name="child_background" format="integer" />
+        <attr name="child_background_2" format="integer" />
+        <attr name="child_background_3" format="integer" />
+        <attr name="header_background" format="integer" />
+        <attr name="footer_background" format="integer" />
+    </declare-styleable>
+</resources>
